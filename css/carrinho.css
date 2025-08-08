@@ -1,0 +1,14 @@
+body {
+    background-color: #ffb5ed;
+}
+
+h2{
+    color: #ff39ce ;
+    text-align: center;
+}
+
+#total {
+    font-style: bold;
+    color: rgb(238, 83, 155);
+    text-align: right;
+}
